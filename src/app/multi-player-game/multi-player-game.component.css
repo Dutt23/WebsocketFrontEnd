@@ -1,0 +1,21 @@
+.container {
+    max-width: 1340px;
+    width: 90%;
+    margin: 0px auto;
+}
+
+circle{
+    border-radius: 50%;
+}
+
+.card .card-content {
+    padding: 10px;
+}
+
+.ff{
+    float: right;
+}
+
+.option:hover{
+    background-color:rgb(202, 226, 223);
+ }
